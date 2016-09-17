@@ -1,5 +1,5 @@
 # How to use it
-This test app is deployed to Heroku at https://parafib.herokuapp.com
+This test app is deployed to Heroku at https://parafib.herokuapp.com.  
 To get Fibonacci sequence up to 4000 run `curl https://parafib.herokuapp.com/fibonacci/4000`
 
 # Local testing
